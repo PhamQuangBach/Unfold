@@ -7,7 +7,7 @@ from itertools import groupby
 from SvgImage import *
 import os
 
-input_path = "heart.obj"
+input_path = "Models/heart.obj"
 output_path = "heart_test.pdf"
 output_dir = "cube"
 
